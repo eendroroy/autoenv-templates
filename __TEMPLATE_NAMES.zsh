@@ -1,0 +1,1 @@
+export __TEMPLATE_NAMES=(java ruby python)
