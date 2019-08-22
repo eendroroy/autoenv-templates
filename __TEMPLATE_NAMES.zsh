@@ -1,1 +1,1 @@
-export __TEMPLATE_NAMES=(java ruby python)
+export __TEMPLATE_NAMES=(java ruby python elixir rails phoenix)
